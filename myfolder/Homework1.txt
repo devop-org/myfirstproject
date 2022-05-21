@@ -1,0 +1,11 @@
+Qestion1: What is a shell?
+
+Question2: what is the difference between a shell and kernel?
+
+Question3: Create a file called yourname.txt (change yourname to your case)
+
+Question4: cp that file in Q3 to /tmp directory
+
+Question5: create a directory tree p1/p2/p3/p4
+
+Question6: copy that file you create in Q3 into p4 directory
